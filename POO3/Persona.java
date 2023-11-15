@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.POO3;
+package com.mycompany.POO.POO3;
 
 
 public class Persona {

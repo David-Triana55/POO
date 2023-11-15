@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.POO4.GETTER;
+package com.mycompany.POO.POO4.GETTER;
 
 public class edad {
     private int edad;

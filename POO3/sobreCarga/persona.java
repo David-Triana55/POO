@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.POO3.sobreCarga;
+package com.mycompany.POO.POO3.sobreCarga;
 
 public class persona {
     int age;

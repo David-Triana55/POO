@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.POO1;
+package com.mycompany.POO.POO1;
 
 public class coche {
     String color;

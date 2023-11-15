@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.POO4.POLI.Juego;
+package com.mycompany.POO.POO4.POLI.Juego;
 
 public class Simulacion extends Juego {
 

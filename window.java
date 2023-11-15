@@ -1,4 +1,4 @@
-package com.mycompany.grupo2;
+package com.mycompany.POO;
 
 import javax.swing.JFrame;
 

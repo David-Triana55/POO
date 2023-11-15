@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.EXERCISE;
+package com.mycompany.POO.EXERCISE;
 import java.util.Scanner;
 
 public class while3 {

@@ -1,5 +1,5 @@
 
-package com.mycompany.grupo2.Calculadora;
+package com.mycompany.POO.Calculadora;
 
 
 public class Pantalla extends javax.swing.JFrame {

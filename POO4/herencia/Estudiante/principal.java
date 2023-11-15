@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.POO4.herencia.Estudiante;
+package com.mycompany.POO.POO4.herencia.Estudiante;
 
 import com.mycompany.grupo2.POO4.herencia.Empleado.Estudiant;
 

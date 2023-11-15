@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.POO2;
+package com.mycompany.POO.POO2;
 
 import javax.swing.JOptionPane;
 

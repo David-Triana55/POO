@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.EXERCISE;
+package com.mycompany.POO.EXERCISE;
 
 public class while1 {
     public static void main(String[] args) {

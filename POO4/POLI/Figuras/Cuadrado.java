@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.POO4.POLI.Figuras;
+package com.mycompany.POO.POO4.POLI.Figuras;
 
 public class Cuadrado extends FiguraGeometrica {
     private String lados;

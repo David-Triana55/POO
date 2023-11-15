@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.Array;
+package com.mycompany.POO.Array;
 
     public class Arreglo_1 {
         public static void main (String[] args) {

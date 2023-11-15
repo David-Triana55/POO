@@ -1,4 +1,4 @@
-package com.mycompany.grupo2.Array;
+package com.mycompany.POO.Array;
 import java.util.Scanner;
 
 public class Arreglo_4 {
