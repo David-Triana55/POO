@@ -1,6 +1,6 @@
 package com.mycompany.POO.POO4.herencia.Empleado;
 
-import com.mycompany.grupo2.POO4.herencia.Estudiante.Estudiante;
+import com.mycompany.POO.POO4.herencia.Estudiante.Estudiante;
 
 public class principal {
     public static void main(String[] args) {

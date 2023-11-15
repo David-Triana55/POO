@@ -1,6 +1,6 @@
 package com.mycompany.POO.POO4.herencia.Estudiante;
 
-import com.mycompany.grupo2.POO4.herencia.Empleado.Empleado;
+import com.mycompany.POO.POO4.herencia.Empleado.Empleado;
 
 public class Estudiante extends Empleado {
     public Estudiante(String name, String lastName, int identityCard){
