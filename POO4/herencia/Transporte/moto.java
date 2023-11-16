@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.herencia.Transporte;
+package com.mycompany.poo.POO4.herencia.Transporte;
 
 class moto extends Transporte {
     public moto(String marca,String modelo, int cilindraje, String color){

@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.POLI.Figuras;
+package com.mycompany.poo.POO4.POLI.Figuras;
 
 public class Circulo extends FiguraGeometrica {
     private String radio;

@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.GETTER;
+package com.mycompany.poo.POO4.GETTER;
 
 public class Computador {
     private String marca;

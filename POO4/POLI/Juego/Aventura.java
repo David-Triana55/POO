@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.POLI.Juego;
+package com.mycompany.poo.POO4.POLI.Juego;
 
 public class Aventura extends Juego {
 

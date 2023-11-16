@@ -1,6 +1,6 @@
-package com.mycompany.POO.POO4.herencia.Empleado;
+package com.mycompany.poo.POO4.herencia.Empleado;
 
-import com.mycompany.POO.POO4.herencia.Estudiante.Persona;
+import com.mycompany.poo.POO4.herencia.Estudiante.Persona;
 
 public class Estudiant extends Persona{
         private int codeEstudent;

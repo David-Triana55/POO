@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.herencia.Estudiante;
+package com.mycompany.poo.POO4.herencia.Estudiante;
 
 public class Persona {
     private String name;

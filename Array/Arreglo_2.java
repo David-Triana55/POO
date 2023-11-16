@@ -1,4 +1,4 @@
-package com.mycompany.POO.Array;
+package com.mycompany.poo.Array;
 public class Arreglo_2 {
     
 

@@ -1,4 +1,4 @@
-package com.mycompany.POO.EXERCISE;
+package com.mycompany.poo.EXERCISE;
 
 
 public class Ejercicio1 {

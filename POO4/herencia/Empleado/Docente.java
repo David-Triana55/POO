@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.herencia.Empleado;
+package com.mycompany.poo.POO4.herencia.Empleado;
 
 
 public class Docente extends Empleado {

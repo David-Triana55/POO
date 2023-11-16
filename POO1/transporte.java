@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO1;
+package com.mycompany.poo.POO1;
 
 public class transporte {
     String tipo;  

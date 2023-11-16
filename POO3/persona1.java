@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO3;
+package com.mycompany.poo.POO3;
 import java.util.Random;
 
 

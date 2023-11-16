@@ -1,4 +1,4 @@
-package com.mycompany.POO.EXERCISE;
+package com.mycompany.poo.EXERCISE;
 import java.util.Scanner;
 
 public class Ejercicio5 {

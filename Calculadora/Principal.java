@@ -1,7 +1,7 @@
 
-package com.mycompany.POO.Calculadora;
+package com.mycompany.poo.Calculadora;
 
-import com.mycompany.POO.Calculadora.Pantalla;
+import com.mycompany.poo.Calculadora.Pantalla;
 
 public class Principal {
     

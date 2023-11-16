@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.POLI.Animal;
+package com.mycompany.poo.POO4.POLI.Animal;
 
 public class Animal {
     protected String raza;

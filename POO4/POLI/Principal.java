@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.POLI;
+package com.mycompany.poo.POO4.POLI;
 
 public class Principal {
     public static void main(String[] args) {

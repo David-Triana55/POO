@@ -23,15 +23,28 @@ public class window extends JFrame{
         panel.setBackground(Color.BLACK);
         this.getContentPane().add(panel);
 
-        JLabel tag = new JLabel("programa 1");
-        tag.setFont(new Font("Helvetica",Font.BOLD, 30));
-        tag.setForeground(Color.WHITE);
+        JLabel titulo = new JLabel("Universidad Uniagustiniana");
+        titulo.setFont(new Font("Helvetica",Font.BOLD, 30));
+        titulo.setForeground(Color.WHITE);
+
+        JLabel carrera = new JLabel("Tecnolgia de desarrollo de software");
+        carrera.setFont(new Font("Helvetica",Font.BOLD, 30));
+        carrera.setForeground(Color.WHITE);
+
+
+        
+        JLabel nombre = new JLabel("\nDavid felipe triana");
+        nombre.setFont(new Font("Helvetica",Font.BOLD, 18));
+        nombre.setForeground(Color.WHITE);
+
 
         Button miBoton = new Button("click");
         miBoton.setBounds(new Rectangle(10,12,15,81));
         miBoton.setBackground(Color.BLUE);
         miBoton.setSize(200, 200);
-        panel.add(tag);
+        panel.add(titulo);
+        panel.add(carrera);
+        panel.add(nombre);
 
     }
     

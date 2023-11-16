@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.POLI;
+package com.mycompany.poo.POO4.POLI;
 
 public class VehiculoDeportivo extends Vehiculo {
     private int cilindrada;

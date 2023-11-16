@@ -1,4 +1,4 @@
-package com.mycompany.POO.POO4.herencia.Transporte;
+package com.mycompany.poo.POO4.herencia.Transporte;
 
 public class Principal {
     public static void main(String[] args) {

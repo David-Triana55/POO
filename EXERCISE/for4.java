@@ -1,4 +1,4 @@
-package com.mycompany.POO.EXERCISE;
+package com.mycompany.poo.EXERCISE;
 
 public class for4 {
     public static void main(String[] args) {
