@@ -13,24 +13,26 @@ public class Principal {
     double otros;
     double totalDeducidos;
     double totalPagar;
+    double sueldoBasico;
     
     public void fun_salarioMensual(double sueldoBasico, double diasLaborados){
-        salarioMensual = sueldoBasico * diasLaborados;
+        salarioMensual = (sueldoBasico/30) * diasLaborados;
+        this.sueldoBasico = sueldoBasico;
     }
     
     public void fun_horasExtras(double sueldoBasico, double horas ){
 
-        double hora =(sueldoBasico / 8);
+        double hora =(sueldoBasico / 30) / 8;
         horasExtras = (hora * 0.25) + hora;
         horasExtras = horasExtras * horas;
     }
     
     public void fun_auxTransporte(){
-        if(salarioMensual > 2606.0){
+        if(salarioMensual > 2606000){
             auxTransporte = 0;
             
         } else {
-            auxTransporte = 149.6;
+            auxTransporte = 149000;
         }
     }
     
@@ -39,15 +41,15 @@ public class Principal {
     }
     
     public void fun_pension(){
-        pension = salarioMensual * 0.04;  
+        pension = sueldoBasico  * 0.04;  
     }
     
     public void fun_salud(){
-        salud = salarioMensual * 0.04;
+        salud = sueldoBasico * 0.04;
     }
     
     public void fun_otros(){
-        otros = salarioMensual * 0.01;
+        otros = sueldoBasico * 0.01;
     }
     
     public void fun_totalDeducidos(){
@@ -57,12 +59,9 @@ public class Principal {
     public void fun_totalPagar(){
         totalPagar = totalDevengado - totalDeducidos;
     }
-     public static void main (String[] args){   
+    public static void main (String[] args){   
         Pantalla aplicacion = new Pantalla();
         aplicacion.setVisible(true); // la pantalla que acabo de crear hazla visible
         aplicacion.setLocationRelativeTo(null);
     }
-     
-     
-    
 }
